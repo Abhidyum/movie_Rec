@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 If you have any questions or suggestions, feel free to reach out to us:
 
 - **Email:** tyagiabhidyum@gmail.com
-- **GitHub:** [abhidyum](https://github.com/Abhidyum)
+- **GitHub:** [Abhidyum](https://github.com/Abhidyum)
