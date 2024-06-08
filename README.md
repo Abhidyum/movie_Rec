@@ -46,7 +46,7 @@ CinemaSense is a content-based movie recommendation system built using Python, p
 
 ## Model
 
-- Vectorizing the text data using CountVectorizer.
+- Vectorizing the text data using the Bag of Words technique with CountVectorizer..
 - Computing cosine similarity between movie vectors to find similar movies.
 - Recommending the top 5 similar movies based on cosine similarity.
 
