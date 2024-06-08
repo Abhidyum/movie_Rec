@@ -2,7 +2,8 @@
 
 CinemaSense is a content-based movie recommendation system built using Python, pandas, and scikit-learn. It uses movie metadata to recommend similar movies to the user based on the selected movie. The project also includes a web interface built with Streamlit to interactively display movie recommendations along with their posters fetched from The Movie Database (TMDb) API.
 
-![CinemaSense Screenshot](https://github.com/Abhidyum/movie_Rec/assets/94860032/df99b260-cabd-4c0e-8bf8-6412ec4e6acb)
+![CinemaSense Screenshot](https://github.com/Abhidyum/movie_Rec/assets/94860032/93930aae-ec07-4c2c-a0d2-e0867639842d)
+
 
 
 ## Installation
