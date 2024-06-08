@@ -9,8 +9,8 @@ CinemaSense is a content-based movie recommendation system built using Python, p
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/cinemasense.git
-    cd cinemasense
+    git clone https://github.com/Abhidyum/movie_Rec.git
+    cd movie_Rec
     ```
 
 2. Install the required packages:
@@ -66,4 +66,4 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 If you have any questions or suggestions, feel free to reach out to us:
 
 - **Email:** tyagiabhidyum@gmail.com
-- **GitHub:** [abhidyum](https://github.com/abhidyum)
+- **GitHub:** [abhidyum](https://github.com/Abhidyum)
